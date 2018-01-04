@@ -11,7 +11,8 @@ import UIKit
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
-        print("hello text added!")
+        print("hello text added!!! !!! !!!")
+        print("New text line added.")
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
     }
